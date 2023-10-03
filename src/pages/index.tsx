@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <main>
         <Box>
-          <Text>This is the first page</Text>
+          <Text>This is the first page. It should be in dark mode</Text>
           <NextLink href="/second">Second</NextLink>
         </Box>
       </main>
